@@ -32,3 +32,7 @@ Requires Python 3 and only uses the standard library.
 - Credentials are entered at runtime and are not hardcoded in the source.
 - Credentials are not stored to disk by this program.
 - Credentials may exist in your terminal's scrollback output, because the script echoes the input, the encoded header and the decoded text.
+
+## License
+
+Licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for the full text.
